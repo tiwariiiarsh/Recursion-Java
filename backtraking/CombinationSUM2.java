@@ -1,4 +1,4 @@
-package arsh.java.recursion;
+package arsh.java.recursion.backtraking;
 
 import java.util.ArrayList;
 import java.util.Arrays;

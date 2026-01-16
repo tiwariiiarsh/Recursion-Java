@@ -1,4 +1,4 @@
-package arsh.java.recursion;
+package arsh.java.recursion.backtraking;
 
 public class NKnights {
     public static void main(String[] args) {
